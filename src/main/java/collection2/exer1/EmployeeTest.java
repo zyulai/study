@@ -1,4 +1,4 @@
-package com.atguigu.exer1;
+package collection2.exer1;
 
 import org.junit.Test;
 

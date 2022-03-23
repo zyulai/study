@@ -56,6 +56,8 @@ public class CollectionTest {
         System.out.println(set);
 
         p1.name = "CC";
+        System.out.println(set);
+        System.out.println(set.contains(p1));
         set.remove(p1);
         System.out.println(set);
         set.add(new Person(1001,"CC"));

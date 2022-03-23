@@ -1,4 +1,4 @@
-package com.atguigu.exer1;
+package collection2.exer1;
 
 /**
  * 定义一个Employee类。
